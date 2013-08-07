@@ -1,0 +1,9 @@
+D:\Visual Studio 2010\Projects\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+D:\Visual Studio 2010\Projects\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+D:\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\AddressBook.Form1.resources
+D:\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\AddressBook.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\AddressBook.exe
+D:\Visual Studio 2010\Projects\AddressBook\AddressBook\obj\x86\Debug\AddressBook.pdb
